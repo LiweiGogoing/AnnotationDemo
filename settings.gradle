@@ -1,0 +1,2 @@
+include ':app', ':bindview-annotation', ':bindview-compiler', ':bindview-api'
+rootProject.name='AnnotationDemo'
